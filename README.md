@@ -316,6 +316,7 @@ PRs welcomed!
 - [diapo](https://github.com/lvignoli/diapo) - A minimal and simplistic presentation template.
 - [polylux](https://github.com/andreasKroepelin/polylux) - Create presentation slides in Typst
 - [clean-polylux-typst](https://github.com/marcothms/clean-polylux-typst) - A clean and dynamic polylux presentation slide template
+- [sorbonne-slides-typst](https://github.com/eusebe/sorbonne-slides-typst/) - A polylux template for Sorbonne University
 - [pinit](https://github.com/OrangeX4/typst-pinit) - Pin things as you like, especially useful for creating slides in typst.
 - [touying](https://github.com/touying-typ/touying) - A powerful package for creating presentation slides in Typst
 
